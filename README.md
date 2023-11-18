@@ -19,7 +19,7 @@ A simple Tic Tac Toe game built with Flutter.
 
 ## Screenshots
 
-Include screenshots or gifs of your game here.
+![Gameplay Screenshot](tictoejpg.jpg)
 
 ## Getting Started
 
